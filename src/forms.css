@@ -1,0 +1,16 @@
+.textfield-div, .checkbox-div {
+  margin-bottom: 10px;
+}
+label {
+  display: block;
+}
+.checkbox-div label  {
+  display: inline;
+}
+.form-error, .input-error {
+  color: #f22;
+  font-size: .8em;
+}
+.form-error {
+  margin-bottom: 10px;
+}
